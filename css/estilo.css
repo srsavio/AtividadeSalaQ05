@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(27, 85, 135);
+}
+
+h1, p{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20px;
+}
+mark{
+    background-color:greenyellow;
+}
+hr{
+    border-color: black;
+    border-width: 3px;
+}
+
+button {
+    font-size: 20px; padding: 20px;
+}
